@@ -33,8 +33,33 @@
 
 ### 1.4 Test Design
 ###### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+###### **Test cases:** -> enter here test cases or at least the titles
+###### The test cases with steps can be viewed here: test_cases.pdf
 
+### 1.5 Test Implementation
+###### The following elements are needed to be ready before the test execution phase begins:
+<li>enter here what needs to be ready for the test execution to begin</li>
 
+### 1.6 Test Execution
+<ul>
+  <li>Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf</li>
+  <li>Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf</li>
+  <ul>
+      <li>enter here bug titles</li> 
+  </ul>
+ </li>
+</ul>
+       
+### 1.7 Test Completion
+ <ul>
+  <li>Exit criteria was evaluated and passed</li>
+  <li>The traceability matrix was generated and can be found here: Traceability_matrix.csv</li>
+  <li>Test execution chart was generated, the final report shows.... -> describe the final report</li>
+-> enter here test execution report/chart
+ </li>
+ </ul>
+
+# 2 SQL section
 
 
 
