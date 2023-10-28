@@ -14,12 +14,16 @@
 ##### **1.1.2 Entry criteria defined**
 ##### **1.1.3 Exit criteria defined**
 ##### **1.1.4 Test scope**  
+ <ul>
   <li>Tests in scope:</li>
   <li>Tests not in scope:</li>
+ </ul>
 
 ##### **1.1.5 Risks detected**
+<ul>
  <li>Project risks:</li>
   <li>Product risks:</li>
+</ul>
   
 ##### **1.1.6 Evaluating entry criteria**
 ###### The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
@@ -29,7 +33,9 @@
 
 ### 1.3 Test Analysis
 ###### The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+<ul>
 <li>Enter test conditions here</li>
+</ul>
 
 ### 1.4 Test Design
 ###### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
@@ -38,7 +44,9 @@
 
 ### 1.5 Test Implementation
 ###### The following elements are needed to be ready before the test execution phase begins:
+<ul>
 <li>enter here what needs to be ready for the test execution to begin</li>
+</ul>
 
 ### 1.6 Test Execution
 <ul>
