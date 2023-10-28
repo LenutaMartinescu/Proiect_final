@@ -22,7 +22,21 @@
   <li>Product risks:</li>
   
 ##### **1.1.6 Evaluating entry criteria**
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+###### The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+### 1.2 Test Monitoring and Control
+###### It will be done by generating periodic reports that reflect the current status of the test.
+
+### 1.3 Test Analysis
+###### The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+<li>Enter test conditions here</li>
+
+### 1.4 Test Design
+###### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+
+
+
+
 
 
 
