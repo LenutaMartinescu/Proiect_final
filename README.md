@@ -13,10 +13,17 @@
 ##### **<o1> 1.1.1 Roles assigned to the project and persons allocated**
 ##### **1.1.2 Entry criteria defined**
 ##### **1.1.3 Exit criteria defined**
-##### **1.1.4 Test scope**
-##### **<li>Tests in scope:</li>**
-##### **<li>Tests not in scope:</li>**
+##### **1.1.4 Test scope**  
+  <li>Tests in scope:</li>
+  <li>Tests not in scope:</li>
+
 ##### **1.1.5 Risks detected**
+ <li>Project risks:</li>
+  <li>Product risks:</li>
+  
+##### **1.1.6 Evaluating entry criteria**
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
 
 
 
