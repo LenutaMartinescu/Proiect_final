@@ -43,7 +43,7 @@ The following stories were created in Jira for the testing of the Matalan websit
 ###### Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
 
-###### The test cases with steps can be viewed here: test_cases.pdf [Uploading ZFJ-Cycles-11-04-2023.csv…]()
+###### The test cases with steps can be viewed here: test_cases.pdf [test cases.CSV](https://github.com/LenutaMartinescu/Proiect_final/blob/main/ZFJ-Cycles-11-04-2023.csv)
 
 
 ### 1.5 Test Implementation
