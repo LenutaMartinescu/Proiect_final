@@ -1,11 +1,13 @@
 # Proiect_final
 ###### The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
-###### Application under test:
-###### API Documentation:
-##### **The final project will be split into 2 sections: [Testing section] and [SQL section].**
-###### Tools used:
-# Functional specifications
-###### -> enter here the functional specifications created in JIRA
+###### Application under test: [Matalan](https://www.matalan.co.uk/)
+
+###### Tools used: Jira, Zephyr
+
+# Functional specifications:
+The following stories were created in Jira for the testing of the Matalan website:
+![image](https://github.com/LenutaMartinescu/Proiect_final/assets/142446728/3b8824cf-4da1-40c9-bb6a-1a6b8669b09a)
+
 # 1 Testing section
 ### 1.1 Test Planning
 ###### The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
